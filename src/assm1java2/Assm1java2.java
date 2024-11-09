@@ -12,4 +12,5 @@ public class Assm1java2 {
     String a = "hello";
      String c = "duyem";
      int tuoi = 19;
+     String d = "kien Pro";
 }
