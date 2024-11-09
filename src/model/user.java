@@ -45,5 +45,13 @@ public class user {
     public void setRole(boolean role) {
         this.role = role;
     }
+
+    public boolean isDUy() {
+        return DUy;
+    }
+
+    public void setDUy(boolean DUy) {
+        this.DUy = DUy;
+    }
         
 }

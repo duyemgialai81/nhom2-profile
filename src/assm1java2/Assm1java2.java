@@ -10,5 +10,6 @@ package assm1java2;
  */
 public class Assm1java2 {
     String a = "hello";
-     String b = "duyem";
+     String c = "duyem";
+     int tuoi = 19;
 }
