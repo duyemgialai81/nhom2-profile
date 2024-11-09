@@ -9,6 +9,6 @@ package assm1java2;
  * @author SingPC
  */
 public class Assm1java2 {
-
+    String a = "hello";
     
 }
