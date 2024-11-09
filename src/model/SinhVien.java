@@ -5,6 +5,7 @@
 package model;
 
 import java.util.Date;
+import java.util.logging.Logger;
 
 /**
  *
@@ -84,4 +85,7 @@ public class SinhVien {
     public void setTuoi(boolean tuoi) {
         this.tuoi = tuoi;
     }
+    private static final Logger LOG = Logger.getLogger(SinhVien.class.getName());
+    
+    
 }
