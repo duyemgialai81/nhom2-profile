@@ -86,6 +86,12 @@ public class SinhVien {
         this.tuoi = tuoi;
     }
     private static final Logger LOG = Logger.getLogger(SinhVien.class.getName());
+
+    @Override
+    public String toString() {
+        return "SinhVien{" + "maSV=" + maSV + ", tenSV=" + tenSV + ", ngaySinh=" + ngaySinh + ", diaChi=" + diaChi + ", hinhanh=" + hinhanh + ", gioiTinh=" + gioiTinh + ", tuoi=" + tuoi + ", maSanPham=" + maSanPham + '}';
+    }
+    
     
     
 }
