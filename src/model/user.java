@@ -12,7 +12,7 @@ public class user {
         private String taiKhoan;
         private String matKhau;
         private boolean role;
-
+        private boolean DUy;
     public user() {
     }
 
