@@ -76,5 +76,11 @@ public class SinhVien {
     public boolean getGioiTinh(){
         return gioiTinh;
     }
-    
+     public boolean isTuoi() {
+        return tuoi;
+    }
+
+    public void setTuoi(boolean tuoi) {
+        this.tuoi = tuoi;
+    }
 }
