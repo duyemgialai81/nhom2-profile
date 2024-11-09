@@ -18,6 +18,7 @@ public class SinhVien {
     private String hinhanh;
     private boolean gioiTinh;
       private boolean tuoi;
+      private String maSanPham;
 
     public SinhVien() {
     }
